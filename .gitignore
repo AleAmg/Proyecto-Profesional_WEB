@@ -21,3 +21,5 @@ package-lock.json
 .idea
 .vscode
 .DS_Store
+
+info.txt
