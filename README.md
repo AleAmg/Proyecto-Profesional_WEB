@@ -1,4 +1,4 @@
-# adFlower
+# adFlower (2022)
 
 Front-end del proyecto realizado con una empresa en el coding bootcamp de Plataforma 5.
 La cual trata de una aplicación donde se pueden crear campañas publicitarias para que influencers las publiciten y ganen dinero.
